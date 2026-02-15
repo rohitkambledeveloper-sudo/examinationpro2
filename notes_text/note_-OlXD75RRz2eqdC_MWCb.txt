@@ -1,0 +1,132 @@
+2️⃣ Important Formulas (Direct Question yahin se aata hai)
+✅ Speed
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑇
+𝑖
+𝑚
+𝑒
+Speed=
+Time
+Distance
+	​
+
+✅ Average Speed
+𝐴
+𝑣
+𝑒
+𝑟
+𝑎
+𝑔
+𝑒
+ 
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+ 
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑇
+𝑜
+𝑡
+𝑎
+𝑙
+ 
+𝑇
+𝑖
+𝑚
+𝑒
+Average Speed=
+Total Time
+Total Distance
+	​
+
+
+⚠ Special Case (Equal Distance):
+
+𝐴
+𝑣
+𝑒
+𝑟
+𝑎
+𝑔
+𝑒
+ 
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+2
+𝑥
+𝑦
+𝑥
++
+𝑦
+Average Speed=
+x+y
+2xy
+	​
+
+✅ Velocity
+𝑣
+=
+𝐷
+𝑖
+𝑠
+𝑝
+𝑙
+𝑎
+𝑐
+𝑒
+𝑚
+𝑒
+𝑛
+𝑡
+𝑇
+𝑖
+𝑚
+𝑒
+v=
+Time
+Displacement
+	​
+
+✅ Acceleration
+𝑎
+=
+𝑣
+−
+𝑢
+𝑡
+a=
+t
+v−u
+	​
