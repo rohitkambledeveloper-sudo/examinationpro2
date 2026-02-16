@@ -1,0 +1,20 @@
+What are the 7 basic units of physics?
+
+
+The 7 basic units of physics, defined by the International System of Units (SI), are the meter (m) for length, kilogram (kg) for mass, second (s) for time, ampere (A) for electric current, kelvin (K) for thermodynamic temperature, mole (mol) for amount of substance, and candela (cd) for luminous intensity, forming the foundation for all other physical measurements.  
+
+Here's a breakdown of each base unit: 
+
+Meter (m): Measures length or distance.
+
+Kilogram (kg): Measures mass (the amount of matter in an object).
+
+Second (s): Measures time.
+
+Ampere (A): Measures electric current (flow of electrical charge).
+
+Kelvin (K): Measures thermodynamic temperature.
+
+Mole (mol): Measures the amount of a substance (e.g., atoms, molecules).
+
+Candela (cd): Measures luminous intensity (the brightness of light).
