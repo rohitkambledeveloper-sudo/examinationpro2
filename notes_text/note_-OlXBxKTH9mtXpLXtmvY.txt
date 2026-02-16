@@ -1,26 +1,23 @@
-1️⃣ Most Important Definitions (1–2 line me yaad karein)
-
-
-
-Motion → Position ka time ke saath change hona.
-
-
-
-Distance → Total path covered (Scalar).
-
-
-
-
-Displacement → Shortest path with direction (Vector).
-
-
-
-
-Speed → Distance / Time (Scalar).
-
-Velocity → Displacement / Time (Vector).
-
-
-
-
-Acceleration → Velocity change per unit time.
+✅ Speed
+𝑆
+𝑝
+𝑒
+𝑒
+𝑑
+=
+𝐷
+𝑖
+𝑠
+𝑡
+𝑎
+𝑛
+𝑐
+𝑒
+𝑇
+𝑖
+𝑚
+𝑒
+Speed=
+Time
+Distance
+	​
